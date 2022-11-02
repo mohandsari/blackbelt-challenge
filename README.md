@@ -4,8 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-![Screenshot](assets/1.png)
-![alt text](https://github.com/mohandsari/blackbelt-challenge/blob/assets/1.png?raw=true)
-![alt text](https://github.com/mohandsari/blackbelt-challenge/blob/assets/2.png?raw=true)
-![alt text](https://github.com/mohandsari/blackbelt-challenge/blob/assets/3.png?raw=true)
-![alt text](https://github.com/mohandsari/blackbelt-challenge/blob/assets/4.png?raw=true)
+![Screenshot](assets/1.png)![Screenshot](assets/2.png)
+![Screenshot](assets/3.png)![Screenshot](assets/4.png)
+
